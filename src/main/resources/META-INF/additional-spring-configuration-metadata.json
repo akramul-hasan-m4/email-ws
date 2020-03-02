@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "basic.auth.client.secret",
+    "type": "java.lang.String",
+    "description": "This is the basic secret for ati mail client OAuth2'"
+  },
+  {
+    "name": "basic.auth.client.id",
+    "type": "java.lang.String",
+    "description": "This is the basic Client Id for ATI Mail OAuth2'"
+  },
+  {
+    "name": "ati.mail.store.type",
+    "type": "java.lang.String",
+    "description": "A description for 'ati.mail.store.type'"
+  },
+  {
+    "name": "mail.store.protocol",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.store.protocol'"
+  },
+  {
+    "name": "ati.store.protocol",
+    "type": "java.lang.String",
+    "description": "A description for 'ati.store.protocol'"
+  },
+  {
+    "name": "mail.pop3.port",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.pop3.port'"
+  },
+  {
+    "name": "mail.pop3.starttls.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.pop3.starttls.enable'"
+  },
+  {
+    "name": "mail.smtp.port",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.port'"
+  }
+]}
